@@ -1,0 +1,1 @@
+# jp.fuderikeisan-app-ads.txt
